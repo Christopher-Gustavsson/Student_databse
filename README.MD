@@ -1,0 +1,2 @@
+Program that reads student data from a txt file and builds a database using linked list of Student objects that can be accesed from a menu.
+User can display certain student info. or write current database to new txt file from main menu.
